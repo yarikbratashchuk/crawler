@@ -1,6 +1,6 @@
 ## Crawler
 
-WIP
+Toy crawler for whatever you want to use it.
 
 ### Requirements 
 
@@ -30,6 +30,6 @@ Help Options:
 
 ```
 
-### License
+---
 
 MIT License, 2020. Yarik Bratashchuk
