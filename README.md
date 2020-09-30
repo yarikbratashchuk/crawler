@@ -1,8 +1,6 @@
 ## Crawler
 
-### Greeting
-
-Hello Monzo team! Nice to meet you :smile:
+WIP
 
 ### Requirements 
 
@@ -32,8 +30,6 @@ Help Options:
 
 ```
 
-### Notes
- 
-The overall design of this could've been different if there were any constraints in the task. Please, consider this.
-This crawler works with only one domain provided with a `--domain` flag.
-Limited time = limited functionality :ok_hand:
+### License
+
+MIT License, 2020. Yarik Bratashchuk
